@@ -9,7 +9,7 @@ metadata:
     description: 'The ABDB program is a database collected by the <a href="https://aurorum.co/c/who" target="_blank">Aurorum Biobase Team</a>. The database provides a collection of the organisms, and the proteins who exist on this planet. '
 autoseo:
     enabled: true
-googledesc: 'The ABDB program is a database collected by the Aurorum Biobase Team. The database provides a collection of the organisms, and the proteins who exist on this planet. '
+googledesc: 'ABDB, or Aurorum Biodiversity Database is the predecessor of Snowfox Biodiversity Database. It is a database collected by the Aurorum Biobase Team. The database provides a collection of the organisms, and the proteins who exist on this planet.'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false
