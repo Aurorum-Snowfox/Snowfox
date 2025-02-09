@@ -5,6 +5,8 @@ external_links:
     process: false
 media_order: 1688821660-218128-header-a066d20cfa2c4939caca26adc363b9ec.png
 menu: 'Predecessor: ABDB (Aurorum Biodiversity Database)'
+metadata:
+    description: 'The ABDB program is a database collected by the <a href="https://aurorum.co/c/who" target="_blank">Aurorum Biobase Team</a>. The database provides a collection of the organisms, and the proteins who exist on this planet. '
 ---
 
 ! ❗️⚠️❗️ ABDB, or Aurorum Biodiversity Database is the predecessor of Snowfox Biodiversity Database. This page is purely a copy of the introduction page of ABDB, we do not guarantee your access to any links/services mentioned in this page.
