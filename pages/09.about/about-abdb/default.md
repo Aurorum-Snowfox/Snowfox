@@ -3,11 +3,11 @@ title: 'About ABDB'
 visible: true
 external_links:
     process: false
-media_order: '1688821660-218128-header-a066d20cfa2c4939caca26adc363b9ec.png,triangle-exclamation-solid.svg'
+media_order: 1688821660-218128-header-a066d20cfa2c4939caca26adc363b9ec.png
 menu: 'Predecessor: ABDB (Aurorum Biodiversity Database)'
 ---
 
-! <img style="display:inline-block" src="./triangle-exclamation-solid.svg"/>ABDB, or Aurorum Biodiversity Database is the predecessor of Snowfox Biodiversity Database. This page is purely a copy of the introduction page of ABDB, we do not guarantee your access to any links/services mentioned in this page.
+! ⚠️ABDB, or Aurorum Biodiversity Database is the predecessor of Snowfox Biodiversity Database. This page is purely a copy of the introduction page of ABDB, we do not guarantee your access to any links/services mentioned in this page.
 
 <img title="Organisms | Aurorum Biobase" style="width: 100%; border-radius: 9px;" src="http://snowfox.me/user/pages/09.about/about-abdb/1688821660-218128-header-a066d20cfa2c4939caca26adc363b9ec.png" alt="header pic"/>
   
