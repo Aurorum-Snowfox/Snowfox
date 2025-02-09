@@ -1,6 +1,8 @@
 ---
 title: 'About ABDB (Aurorum Biodiversity DataBase)'
 visible: true
+external_links:
+    process: false
 ---
 
 <img 
