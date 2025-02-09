@@ -1,9 +1,6 @@
 ---
 title: 'About ABDB (Aurorum Biodiversity DataBase)'
 visible: true
-process:
-    markdown: true
-    twig: true
 ---
 
 <img 
