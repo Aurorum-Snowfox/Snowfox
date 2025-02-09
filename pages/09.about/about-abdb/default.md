@@ -10,7 +10,7 @@ external_links:
  ![](https://sa.aurorum.co/assets/files/2023-07-08/1688821660-218128-header-a066d20cfa2c4939caca26adc363b9ec.png)
   
   <img
-  src="https://sa.aurorum.co/assets/files/2023-07-08/1688821660-218128-header-a066d20cfa2c4939caca26adc363b9ec.png">
+  src="https://sa.aurorum.co/assets/files/2023-07-08/1688821660-218128-header-a066d20cfa2c4939caca26adc363b9ec.png" />
 
 ------------
 # <center> A Brief Introduction About ABDB (Aurorum Biodiversity DataBase)</center> <br/>
