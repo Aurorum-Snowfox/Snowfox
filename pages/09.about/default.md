@@ -1,4 +1,5 @@
 ---
-title: 'About Snowfox Biodiversity Database'
+title: 'About Us'
 ---
 
+About Snowfox Biodiversity Database
