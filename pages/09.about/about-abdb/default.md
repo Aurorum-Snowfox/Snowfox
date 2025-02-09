@@ -14,7 +14,7 @@ process:
 />
 
 ------------
-# <center> A Brief Introduction About ABDB (Aurorum Biodiversity DataBase)</center> <br/>
+<center> A Brief Introduction About ABDB (Aurorum Biodiversity DataBase)</center> <br/>
 
 > *" The ABDB program is a database collected by the <a href="https://aurorum.co/c/who" target="_blank">Aurorum Biobase Team</a>. The database provides a collection of the organisms, and the proteins who exist on this planet. ”*
 
