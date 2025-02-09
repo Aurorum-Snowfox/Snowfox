@@ -3,15 +3,6 @@ title: 'About ABDB (Aurorum Biodiversity DataBase)'
 visible: true
 ---
 
----
-sidebar_label: About Aurorum Biodiversity Database
-title: About Aurorum Biodiversity Database
-sidebar_position: 0
-hide_title: true
-custom_edit_url: https://sa.aurorum.co/d/1-about-aurorum-biobase
----
-
-
 <img
   title="Organisms | Aurorum Biobase"
   style={{ width: '100%', borderRadius: '9px' }}
